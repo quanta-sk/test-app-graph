@@ -1,0 +1,4 @@
+graphscope
+graphscope-client
+numpy==1.26.1
+kubernetes==24.2.0
